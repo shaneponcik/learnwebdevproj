@@ -1,0 +1,44 @@
+{
+  "races":[
+    {
+      "name": "Aggieland Omnium",
+      "result": "1st",
+      "year": "2017"
+    },
+    {
+      "name": "Memorial Park 4/5 Series",
+      "result": "2nd",
+      "year": "2017"
+    },
+    {
+      "name": "Chappell Hill RR 4",
+      "result": "1st",
+      "year": "2017"
+    },
+    {
+      "name": "State U23 RR",
+      "result": "Texas Podium",
+      "year": "2017"
+    },
+    {
+      "name": "Pace Bend Day 1 3",
+      "result": "3rd",
+      "year": "2018"
+    },
+    {
+      "name": "Pace Bend Day 2 3",
+      "result": "5th",
+      "year": "2018"
+    },
+    {
+      "name": "Lago Vista Day 1 3",
+      "result": "1st",
+      "year": "2018"
+    },
+    {
+      "name": "Lago Vista Day 2 3",
+      "result": "5th",
+      "year": "2018"
+    }
+  ]
+}
